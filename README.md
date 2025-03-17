@@ -4,7 +4,7 @@
 
 🌏 Located in Vienna
 
-💻 Read more about me on my [Portfolio}(https://roomman.at/)
+💻 Read more about me on my [Portfolio](https://roomman.at/)
 
 🧑‍🎓 Currently learning about NextJS PPR
 
