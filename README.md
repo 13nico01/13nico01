@@ -6,3 +6,4 @@
 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V717KIFG)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=13nico01)](https://github.com/anuraghazra/github-readme-stats)
